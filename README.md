@@ -21,7 +21,7 @@ Skirtingi konteinerių tipai: vector, list, deque
 
 
 **v1.0**  
-Tyrimas su trijomis strategijomis
+Tyrimas su trimis duomenu tipais
 
 Rezultatas:
 
